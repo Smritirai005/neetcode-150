@@ -16,7 +16,7 @@ public:
 
             }
             else{
-                if(nums[mid]<target && target<=nums[right]){
+                if(nums[mid]<target && nums[right]>=target){
                     left=mid+1;
                 }
                 else{
