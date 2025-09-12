@@ -23,14 +23,11 @@ public:
             st.push(curr);
             count++;
             curr=curr->next;
-                
-            
             if(count==k){
                 while(!st.empty()){
                     prev->next=st.top();
                     st.pop();
                     prev=prev->next;
-                    
                 }
                 prev->next=curr;
                 count=0;
