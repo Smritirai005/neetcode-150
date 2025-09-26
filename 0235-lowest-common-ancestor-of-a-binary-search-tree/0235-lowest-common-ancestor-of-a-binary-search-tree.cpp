@@ -10,12 +10,18 @@
 
 class Solution {
 public:
+//using binary search
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q){
-        if(root==nullptr ||root->val==p->val||root->val==q->val)return root;
-        TreeNode* left = lowestCommonAncestor(root->left, p, q);
-        TreeNode* right = lowestCommonAncestor(root->right, p, q);
-        if(left&& right)return root;
-        return left?left:right;
+       while (root) {
+            if (p->val < root->val && q->val < root->val) {
+                root = root->left;   
+            } else if (p->val > root->val && q->val > root->val) {
+                root = root->right;  
+            } else {
+                return root;  
+            }
+        }
+        return nullptr;
 
 
         
