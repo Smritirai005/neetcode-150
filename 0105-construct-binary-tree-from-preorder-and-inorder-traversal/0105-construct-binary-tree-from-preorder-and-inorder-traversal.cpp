@@ -17,7 +17,7 @@ public:
         }
         int rootVal=preorder[idx];
         int i=start;
-        for(i=0;i<=end;i++){
+        for(i=start;i<=end;i++){
             if(inorder[i]==rootVal){
                 break;
             }
