@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Smritirai005/neetcode-150/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Smritirai005/neetcode-150/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Smritirai005/neetcode-150/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Smritirai005/neetcode-150/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Smritirai005/neetcode-150/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Smritirai005/neetcode-150/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Smritirai005/neetcode-150/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Smritirai005/neetcode-150/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Smritirai005/neetcode-150/tree/master/0076-minimum-window-substring) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Smritirai005/neetcode-150/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Smritirai005/neetcode-150/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/Smritirai005/neetcode-150/tree/master/0567-permutation-in-string) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Smritirai005/neetcode-150/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
