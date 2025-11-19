@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Smritirai005/neetcode-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Smritirai005/neetcode-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Smritirai005/neetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0174-dungeon-game](https://github.com/Smritirai005/neetcode-150/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/Smritirai005/neetcode-150/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Smritirai005/neetcode-150/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Smritirai005/neetcode-150/tree/master/0238-product-of-array-except-self) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
+| [0174-dungeon-game](https://github.com/Smritirai005/neetcode-150/tree/master/0174-dungeon-game) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Smritirai005/neetcode-150/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Stack
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Smritirai005/neetcode-150/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Smritirai005/neetcode-150/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Smritirai005/neetcode-150/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/Smritirai005/neetcode-150/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Smritirai005/neetcode-150/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Smritirai005/neetcode-150/tree/master/0695-max-area-of-island) |
 ## Linked List
