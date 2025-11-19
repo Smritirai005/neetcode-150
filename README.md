@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Smritirai005/neetcode-150/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Smritirai005/neetcode-150/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Smritirai005/neetcode-150/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Smritirai005/neetcode-150/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Smritirai005/neetcode-150/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Smritirai005/neetcode-150/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Smritirai005/neetcode-150/tree/master/0074-search-a-2d-matrix) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Smritirai005/neetcode-150/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Smritirai005/neetcode-150/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Smritirai005/neetcode-150/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Smritirai005/neetcode-150/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Smritirai005/neetcode-150/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Smritirai005/neetcode-150/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
