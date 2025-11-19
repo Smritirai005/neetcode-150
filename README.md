@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Smritirai005/neetcode-150/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Smritirai005/neetcode-150/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Smritirai005/neetcode-150/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0044-wildcard-matching](https://github.com/Smritirai005/neetcode-150/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Smritirai005/neetcode-150/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Smritirai005/neetcode-150/tree/master/0076-minimum-window-substring) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
@@ -133,11 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Smritirai005/neetcode-150/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Smritirai005/neetcode-150/tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Smritirai005/neetcode-150/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Smritirai005/neetcode-150/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Smritirai005/neetcode-150/tree/master/0044-wildcard-matching) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Smritirai005/neetcode-150/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Stack
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Smritirai005/neetcode-150/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Smritirai005/neetcode-150/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Smritirai005/neetcode-150/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Smritirai005/neetcode-150/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/Smritirai005/neetcode-150/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Smritirai005/neetcode-150/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
