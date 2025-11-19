@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Smritirai005/neetcode-150/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Smritirai005/neetcode-150/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Smritirai005/neetcode-150/tree/master/0883-car-fleet) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Smritirai005/neetcode-150/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Smritirai005/neetcode-150/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Smritirai005/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Smritirai005/neetcode-150/tree/master/0567-permutation-in-string) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Smritirai005/neetcode-150/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Union Find
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Smritirai005/neetcode-150/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Smritirai005/neetcode-150/tree/master/0347-top-k-frequent-elements) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Smritirai005/neetcode-150/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Smritirai005/neetcode-150/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/Smritirai005/neetcode-150/tree/master/0567-permutation-in-string) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Smritirai005/neetcode-150/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Math
 |  |
 | ------- |
