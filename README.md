@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Smritirai005/neetcode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Smritirai005/neetcode-150/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Smritirai005/neetcode-150/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Smritirai005/neetcode-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Smritirai005/neetcode-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Smritirai005/neetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Smritirai005/neetcode-150/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Smritirai005/neetcode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Smritirai005/neetcode-150/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Smritirai005/neetcode-150/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Smritirai005/neetcode-150/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Smritirai005/neetcode-150/tree/master/0347-top-k-frequent-elements) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Smritirai005/neetcode-150/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Smritirai005/neetcode-150/tree/master/0087-scramble-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Smritirai005/neetcode-150/tree/master/0567-permutation-in-string) |
 ## Sorting
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Smritirai005/neetcode-150/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Smritirai005/neetcode-150/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Stack
@@ -331,10 +335,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Smritirai005/neetcode-150/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Backtracking
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Smritirai005/neetcode-150/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Smritirai005/neetcode-150/tree/master/0051-n-queens) |
+| [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
