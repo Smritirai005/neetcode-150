@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Smritirai005/neetcode-150/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Smritirai005/neetcode-150/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Smritirai005/neetcode-150/tree/master/0087-scramble-string) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Smritirai005/neetcode-150/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Stack
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Smritirai005/neetcode-150/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Smritirai005/neetcode-150/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Smritirai005/neetcode-150/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Smritirai005/neetcode-150/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Smritirai005/neetcode-150/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Smritirai005/neetcode-150/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Smritirai005/neetcode-150/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Smritirai005/neetcode-150/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Smritirai005/neetcode-150/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Smritirai005/neetcode-150/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Smritirai005/neetcode-150/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Smritirai005/neetcode-150/tree/master/0200-number-of-islands) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Smritirai005/neetcode-150/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Smritirai005/neetcode-150/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Smritirai005/neetcode-150/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Smritirai005/neetcode-150/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Smritirai005/neetcode-150/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Smritirai005/neetcode-150/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
