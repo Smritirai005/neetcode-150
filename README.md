@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Smritirai005/neetcode-150/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Smritirai005/neetcode-150/tree/master/0287-find-the-duplicate-number) |
+| [0330-patching-array](https://github.com/Smritirai005/neetcode-150/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Smritirai005/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Smritirai005/neetcode-150/tree/master/0485-max-consecutive-ones) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Smritirai005/neetcode-150/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Smritirai005/neetcode-150/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/Smritirai005/neetcode-150/tree/master/0135-candy) |
+| [0330-patching-array](https://github.com/Smritirai005/neetcode-150/tree/master/0330-patching-array) |
 ## Dynamic Programming
 |  |
 | ------- |
