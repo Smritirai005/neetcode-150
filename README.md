@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Smritirai005/neetcode-150/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Smritirai005/neetcode-150/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Smritirai005/neetcode-150/tree/master/0883-car-fleet) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Smritirai005/neetcode-150/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Smritirai005/neetcode-150/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Smritirai005/neetcode-150/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Smritirai005/neetcode-150/tree/master/0174-dungeon-game) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/0918-maximum-sum-circular-subarray) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Smritirai005/neetcode-150/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
@@ -375,4 +378,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
