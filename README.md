@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Smritirai005/neetcode-150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Smritirai005/neetcode-150/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Smritirai005/neetcode-150/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Smritirai005/neetcode-150/tree/master/0041-first-missing-positive) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Smritirai005/neetcode-150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Smritirai005/neetcode-150/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Smritirai005/neetcode-150/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Smritirai005/neetcode-150/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Smritirai005/neetcode-150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Smritirai005/neetcode-150/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Smritirai005/neetcode-150/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0209-minimum-size-subarray-sum) |
