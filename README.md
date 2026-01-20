@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Smritirai005/neetcode-150/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/Smritirai005/neetcode-150/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/Smritirai005/neetcode-150/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Smritirai005/neetcode-150/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Smritirai005/neetcode-150/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Smritirai005/neetcode-150/tree/master/0883-car-fleet) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Smritirai005/neetcode-150/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Smritirai005/neetcode-150/tree/master/0724-find-pivot-index) |
 ## Design
 |  |
 | ------- |
