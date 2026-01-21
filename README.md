@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Smritirai005/neetcode-150/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Smritirai005/neetcode-150/tree/master/0347-top-k-frequent-elements) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Smritirai005/neetcode-150/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Smritirai005/neetcode-150/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bucket Sort
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Smritirai005/neetcode-150/tree/master/0174-dungeon-game) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Smritirai005/neetcode-150/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/0918-maximum-sum-circular-subarray) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Smritirai005/neetcode-150/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Smritirai005/neetcode-150/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Smritirai005/neetcode-150/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Smritirai005/neetcode-150/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Smritirai005/neetcode-150/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Smritirai005/neetcode-150/tree/master/0820-find-eventual-safe-states) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Smritirai005/neetcode-150/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Smritirai005/neetcode-150/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/Smritirai005/neetcode-150/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Smritirai005/neetcode-150/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Smritirai005/neetcode-150/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Smritirai005/neetcode-150/tree/master/0820-find-eventual-safe-states) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Smritirai005/neetcode-150/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -403,4 +407,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/0918-maximum-sum-circular-subarray) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Smritirai005/neetcode-150/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Smritirai005/neetcode-150/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
