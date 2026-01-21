@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Smritirai005/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Smritirai005/neetcode-150/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/Smritirai005/neetcode-150/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Smritirai005/neetcode-150/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Smritirai005/neetcode-150/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Smritirai005/neetcode-150/tree/master/0724-find-pivot-index) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Smritirai005/neetcode-150/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Smritirai005/neetcode-150/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Smritirai005/neetcode-150/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/Smritirai005/neetcode-150/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Smritirai005/neetcode-150/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Smritirai005/neetcode-150/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Smritirai005/neetcode-150/tree/master/0904-fruit-into-baskets) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Smritirai005/neetcode-150/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Smritirai005/neetcode-150/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Smritirai005/neetcode-150/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Smritirai005/neetcode-150/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Smritirai005/neetcode-150/tree/master/0974-subarray-sums-divisible-by-k) |
