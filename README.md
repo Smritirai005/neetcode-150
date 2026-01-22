@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Smritirai005/neetcode-150/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Smritirai005/neetcode-150/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Smritirai005/neetcode-150/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Smritirai005/neetcode-150/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Smritirai005/neetcode-150/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Smritirai005/neetcode-150/tree/master/0084-largest-rectangle-in-histogram) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Smritirai005/neetcode-150/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Smritirai005/neetcode-150/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Smritirai005/neetcode-150/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Smritirai005/neetcode-150/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Smritirai005/neetcode-150/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Smritirai005/neetcode-150/tree/master/0347-top-k-frequent-elements) |
