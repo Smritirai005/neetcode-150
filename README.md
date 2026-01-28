@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Smritirai005/neetcode-150/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Smritirai005/neetcode-150/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Smritirai005/neetcode-150/tree/master/0268-missing-number) |
+| [2929-distribute-candies-among-children-ii](https://github.com/Smritirai005/neetcode-150/tree/master/2929-distribute-candies-among-children-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -418,4 +419,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Smritirai005/neetcode-150/tree/master/0787-cheapest-flights-within-k-stops) |
+## Combinatorics
+|  |
+| ------- |
+| [2929-distribute-candies-among-children-ii](https://github.com/Smritirai005/neetcode-150/tree/master/2929-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2929-distribute-candies-among-children-ii](https://github.com/Smritirai005/neetcode-150/tree/master/2929-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
