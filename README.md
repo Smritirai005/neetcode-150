@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Smritirai005/neetcode-150/tree/master/0087-scramble-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
+| [0402-remove-k-digits](https://github.com/Smritirai005/neetcode-150/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Smritirai005/neetcode-150/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Smritirai005/neetcode-150/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Smritirai005/neetcode-150/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/Smritirai005/neetcode-150/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/Smritirai005/neetcode-150/tree/master/0330-patching-array) |
+| [0402-remove-k-digits](https://github.com/Smritirai005/neetcode-150/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Smritirai005/neetcode-150/tree/master/0435-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Smritirai005/neetcode-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Smritirai005/neetcode-150/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Smritirai005/neetcode-150/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Smritirai005/neetcode-150/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Smritirai005/neetcode-150/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Smritirai005/neetcode-150/tree/master/0883-car-fleet) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Smritirai005/neetcode-150/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Smritirai005/neetcode-150/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Smritirai005/neetcode-150/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/Smritirai005/neetcode-150/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Smritirai005/neetcode-150/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Smritirai005/neetcode-150/tree/master/0883-car-fleet) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Smritirai005/neetcode-150/tree/master/2487-remove-nodes-from-linked-list) |
