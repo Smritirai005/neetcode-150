@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Smritirai005/neetcode-150/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Smritirai005/neetcode-150/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Smritirai005/neetcode-150/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Smritirai005/neetcode-150/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/Smritirai005/neetcode-150/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Smritirai005/neetcode-150/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Smritirai005/neetcode-150/tree/master/0567-permutation-in-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Smritirai005/neetcode-150/tree/master/0087-scramble-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
+| [0383-ransom-note](https://github.com/Smritirai005/neetcode-150/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/Smritirai005/neetcode-150/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Smritirai005/neetcode-150/tree/master/0567-permutation-in-string) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Smritirai005/neetcode-150/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Smritirai005/neetcode-150/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
