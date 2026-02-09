@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Smritirai005/neetcode-150/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Smritirai005/neetcode-150/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Smritirai005/neetcode-150/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Smritirai005/neetcode-150/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Smritirai005/neetcode-150/tree/master/0695-max-area-of-island) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Smritirai005/neetcode-150/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Smritirai005/neetcode-150/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Smritirai005/neetcode-150/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Smritirai005/neetcode-150/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Smritirai005/neetcode-150/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Smritirai005/neetcode-150/tree/master/0883-car-fleet) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Smritirai005/neetcode-150/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Smritirai005/neetcode-150/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Smritirai005/neetcode-150/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Smritirai005/neetcode-150/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Smritirai005/neetcode-150/tree/master/0883-car-fleet) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Smritirai005/neetcode-150/tree/master/2487-remove-nodes-from-linked-list) |
