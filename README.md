@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Smritirai005/neetcode-150/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Smritirai005/neetcode-150/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Smritirai005/neetcode-150/tree/master/0876-middle-of-the-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/Smritirai005/neetcode-150/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Smritirai005/neetcode-150/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
