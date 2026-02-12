@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Smritirai005/neetcode-150/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Smritirai005/neetcode-150/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Smritirai005/neetcode-150/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Smritirai005/neetcode-150/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/Smritirai005/neetcode-150/tree/master/0883-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/Smritirai005/neetcode-150/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/0918-maximum-sum-circular-subarray) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Smritirai005/neetcode-150/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Smritirai005/neetcode-150/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Smritirai005/neetcode-150/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Smritirai005/neetcode-150/tree/master/0852-peak-index-in-a-mountain-array) |
 ## String
 |  |
 | ------- |
