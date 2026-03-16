@@ -1,16 +1,16 @@
 class Solution {
 private:
     unordered_map<char,string>f;
-    void fun(string& s,int n, vector<string>&ans,string res,int idx){
+    void fun(string& digits,int n, vector<string>&ans,string res,int idx){
         
         if(idx==n){
             ans.push_back(res);
             return;
         }
-        string t=f[s[idx]];
+        string t=f[digits[idx]];
         for(int i=0;i<t.length();i++){
             res.push_back(t[i]);
-            fun(s,n,ans,res,idx+1);
+            fun(digits,n,ans,res,idx+1);
             res.pop_back();
         }
     }
