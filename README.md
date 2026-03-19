@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Smritirai005/neetcode-150/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Smritirai005/neetcode-150/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Smritirai005/neetcode-150/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Smritirai005/neetcode-150/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Smritirai005/neetcode-150/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Smritirai005/neetcode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Smritirai005/neetcode-150/tree/master/0130-surrounded-regions) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Smritirai005/neetcode-150/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Smritirai005/neetcode-150/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Smritirai005/neetcode-150/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Smritirai005/neetcode-150/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Smritirai005/neetcode-150/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Smritirai005/neetcode-150/tree/master/0143-reorder-list) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Smritirai005/neetcode-150/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Smritirai005/neetcode-150/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Smritirai005/neetcode-150/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Smritirai005/neetcode-150/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Smritirai005/neetcode-150/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Smritirai005/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Smritirai005/neetcode-150/tree/master/0435-non-overlapping-intervals) |
