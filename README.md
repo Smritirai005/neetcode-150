@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Smritirai005/neetcode-150/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Smritirai005/neetcode-150/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Smritirai005/neetcode-150/tree/master/0087-scramble-string) |
+| [0131-palindrome-partitioning](https://github.com/Smritirai005/neetcode-150/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
 | [0383-ransom-note](https://github.com/Smritirai005/neetcode-150/tree/master/0383-ransom-note) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Smritirai005/neetcode-150/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Smritirai005/neetcode-150/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Smritirai005/neetcode-150/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/0152-maximum-product-subarray) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Smritirai005/neetcode-150/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Smritirai005/neetcode-150/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/Smritirai005/neetcode-150/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
 ## Trie
 |  |
