@@ -10,6 +10,9 @@ public:
             mp[s[j]]++;
             while(mp[s[j]]>1){
                 mp[s[i]]--;
+                if(mp[s[i]]==0){
+                    mp.erase(s[i]);
+                }
                 i++;
 
             }
