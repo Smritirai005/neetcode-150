@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Smritirai005/neetcode-150/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Smritirai005/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Smritirai005/neetcode-150/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/Smritirai005/neetcode-150/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Smritirai005/neetcode-150/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Smritirai005/neetcode-150/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Smritirai005/neetcode-150/tree/master/0567-permutation-in-string) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
 | [0383-ransom-note](https://github.com/Smritirai005/neetcode-150/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/Smritirai005/neetcode-150/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Smritirai005/neetcode-150/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Smritirai005/neetcode-150/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Smritirai005/neetcode-150/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Smritirai005/neetcode-150/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Smritirai005/neetcode-150/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Smritirai005/neetcode-150/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Smritirai005/neetcode-150/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Smritirai005/neetcode-150/tree/master/0904-fruit-into-baskets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Smritirai005/neetcode-150/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
