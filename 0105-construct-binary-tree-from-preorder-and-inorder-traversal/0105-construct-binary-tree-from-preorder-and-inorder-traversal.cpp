@@ -11,30 +11,29 @@
  */
 class Solution {
 public:
-    TreeNode* helper(vector<int>& preorder, vector<int>& inorder,int start,int end,int&idx){
-        if(start>end){
-            return nullptr;
-        }
-        int rootVal=preorder[idx];
-        int i=start;
-        for(i=start;i<=end;i++){
-            if(inorder[i]==rootVal){
-                break;
-            }
-        }idx++;
-        TreeNode* root=new TreeNode(rootVal);
-        root->left=helper(preorder,inorder,start,i-1,idx);
-        root->right=helper(preorder,inorder,i+1,end,idx);
+    unordered_map<int, int> mp; // value -> index in inorder
+    int preIndex = 0;
+
+    TreeNode* solve(vector<int>& preorder, int left, int right) {
+        if (left > right) return NULL;
+
+        int rootVal = preorder[preIndex++];
+        TreeNode* root = new TreeNode(rootVal);
+
+        int index = mp[rootVal];
+
+        root->left = solve(preorder, left, index - 1);
+        root->right = solve(preorder, index + 1, right);
+
         return root;
-
     }
-    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int n=preorder.size();
-        int idx=0;
 
-        return helper(preorder,inorder,0,n-1,idx);
-        
-        
-        
+    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+        // store inorder indices
+        for (int i = 0; i < inorder.size(); i++) {
+            mp[inorder[i]] = i;
+        }
+
+        return solve(preorder, 0, inorder.size() - 1);
     }
 };
