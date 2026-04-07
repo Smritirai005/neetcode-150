@@ -545,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Smritirai005/neetcode-150/tree/master/0735-asteroid-collision) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Smritirai005/neetcode-150/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
