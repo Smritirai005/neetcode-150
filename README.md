@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Smritirai005/neetcode-150/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Smritirai005/neetcode-150/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Smritirai005/neetcode-150/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
