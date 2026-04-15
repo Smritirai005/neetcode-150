@@ -1,39 +1,47 @@
 class Solution {
 public:
-    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites){
-        int v = numCourses;
-        vector<vector<int>> graph(v);
-        for (auto &p : prerequisites) {
-            graph[p[1]].push_back(p[0]);
-        }
-        vector<int>indegree(v);
-        vector<int>ans;
-        for(int i=0;i<v;i++){
-            for(int &x:graph[i]){
-                indegree[x]++;
+    bool dfs(int node, vector<vector<int>>& adj, vector<int>& vis, vector<int>& currpth, vector<int>& res) {
+        vis[node] = 1;
+        currpth[node] = 1;
 
+        for (auto it : adj[node]) {
+            if (!vis[it]) {
+                if (dfs(it, adj, vis, currpth, res)) return true;
+            }
+            else if (currpth[it]) {
+                return true; // cycle
             }
         }
-        queue<int>q;
-        for(int i=0;i<v;i++){
-            if(indegree[i]==0){
-                q.push(i);
-            }
+
+        currpth[node] = 0;
+        res.push_back(node);
+        return false;
+    }
+
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+        int n = numCourses;
+
+        vector<vector<int>> adj(n);   // 🔥 missing
+        vector<int> vis(n, 0);
+        vector<int> currpth(n, 0);   // 🔥 missing ;
+        vector<int> res;             // 🔥 missing ;
+
+        for (int i = 0; i < prerequisites.size(); i++) {
+            vector<int> edge = prerequisites[i];
+            int src = edge[0];
+            int des = edge[1];
+            adj[des].push_back(src);
         }
-        while(!q.empty()){
-            int f=q.front();
-            q.pop();
-            ans.push_back(f);
-            for(int &x:graph[f]){
-                indegree[x]--;
-                if(indegree[x]==0){
-                    q.push(x);
+
+        for (int i = 0; i < n; i++) {
+            if (!vis[i]) {
+                if (dfs(i, adj, vis, currpth, res)) {
+                    return {}; // cycle → no order
                 }
             }
-
         }
-        if (ans.size() != v) return {};
-        return ans;
-        
+
+        reverse(res.begin(), res.end()); // 🔥 important
+        return res;
     }
 };
