@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Smritirai005/neetcode-150/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Smritirai005/neetcode-150/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Smritirai005/neetcode-150/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Smritirai005/neetcode-150/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Smritirai005/neetcode-150/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Smritirai005/neetcode-150/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Smritirai005/neetcode-150/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/Smritirai005/neetcode-150/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Smritirai005/neetcode-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Smritirai005/neetcode-150/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Smritirai005/neetcode-150/tree/master/0202-happy-number) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Smritirai005/neetcode-150/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Smritirai005/neetcode-150/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Backtracking
