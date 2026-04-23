@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Smritirai005/neetcode-150/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Smritirai005/neetcode-150/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Smritirai005/neetcode-150/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Smritirai005/neetcode-150/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Smritirai005/neetcode-150/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Smritirai005/neetcode-150/tree/master/0820-find-eventual-safe-states) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Smritirai005/neetcode-150/tree/master/0951-flip-equivalent-binary-trees) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Smritirai005/neetcode-150/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Smritirai005/neetcode-150/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Smritirai005/neetcode-150/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Smritirai005/neetcode-150/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Smritirai005/neetcode-150/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Smritirai005/neetcode-150/tree/master/0820-find-eventual-safe-states) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Smritirai005/neetcode-150/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Smritirai005/neetcode-150/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Smritirai005/neetcode-150/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Smritirai005/neetcode-150/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Smritirai005/neetcode-150/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
@@ -569,4 +572,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Smritirai005/neetcode-150/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Smritirai005/neetcode-150/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Smritirai005/neetcode-150/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Smritirai005/neetcode-150/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
