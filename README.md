@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Smritirai005/neetcode-150/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Smritirai005/neetcode-150/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1470-shuffle-the-array](https://github.com/Smritirai005/neetcode-150/tree/master/1470-shuffle-the-array) |
+| [1631-path-with-minimum-effort](https://github.com/Smritirai005/neetcode-150/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Smritirai005/neetcode-150/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Smritirai005/neetcode-150/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Smritirai005/neetcode-150/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Smritirai005/neetcode-150/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1631-path-with-minimum-effort](https://github.com/Smritirai005/neetcode-150/tree/master/1631-path-with-minimum-effort) |
 ## String
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Smritirai005/neetcode-150/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Smritirai005/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Smritirai005/neetcode-150/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/Smritirai005/neetcode-150/tree/master/1631-path-with-minimum-effort) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Smritirai005/neetcode-150/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bucket Sort
 |  |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Smritirai005/neetcode-150/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Smritirai005/neetcode-150/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Smritirai005/neetcode-150/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Smritirai005/neetcode-150/tree/master/1631-path-with-minimum-effort) |
 ## Linked List
 |  |
 | ------- |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Smritirai005/neetcode-150/tree/master/0820-find-eventual-safe-states) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Smritirai005/neetcode-150/tree/master/0951-flip-equivalent-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Smritirai005/neetcode-150/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Smritirai005/neetcode-150/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -461,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Smritirai005/neetcode-150/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Smritirai005/neetcode-150/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Smritirai005/neetcode-150/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Smritirai005/neetcode-150/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -585,4 +591,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Smritirai005/neetcode-150/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Smritirai005/neetcode-150/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Smritirai005/neetcode-150/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Smritirai005/neetcode-150/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
