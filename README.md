@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Smritirai005/neetcode-150/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Smritirai005/neetcode-150/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/Smritirai005/neetcode-150/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Smritirai005/neetcode-150/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1470-shuffle-the-array](https://github.com/Smritirai005/neetcode-150/tree/master/1470-shuffle-the-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Smritirai005/neetcode-150/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Smritirai005/neetcode-150/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Smritirai005/neetcode-150/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Smritirai005/neetcode-150/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Smritirai005/neetcode-150/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Smritirai005/neetcode-150/tree/master/0820-find-eventual-safe-states) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Smritirai005/neetcode-150/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Smritirai005/neetcode-150/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Smritirai005/neetcode-150/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Smritirai005/neetcode-150/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
