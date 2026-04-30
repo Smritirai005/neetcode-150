@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Smritirai005/neetcode-150/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Smritirai005/neetcode-150/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Smritirai005/neetcode-150/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/Smritirai005/neetcode-150/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Smritirai005/neetcode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Smritirai005/neetcode-150/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Smritirai005/neetcode-150/tree/master/0135-candy) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Smritirai005/neetcode-150/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Smritirai005/neetcode-150/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Smritirai005/neetcode-150/tree/master/0087-scramble-string) |
+| [0120-triangle](https://github.com/Smritirai005/neetcode-150/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Smritirai005/neetcode-150/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0132-palindrome-partitioning-ii) |
