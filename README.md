@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Smritirai005/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Smritirai005/neetcode-150/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Smritirai005/neetcode-150/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Smritirai005/neetcode-150/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0503-next-greater-element-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Smritirai005/neetcode-150/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Smritirai005/neetcode-150/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Smritirai005/neetcode-150/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Smritirai005/neetcode-150/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Smritirai005/neetcode-150/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Smritirai005/neetcode-150/tree/master/0876-middle-of-the-linked-list) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Smritirai005/neetcode-150/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Smritirai005/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Smritirai005/neetcode-150/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Smritirai005/neetcode-150/tree/master/0455-assign-cookies) |
 | [0883-car-fleet](https://github.com/Smritirai005/neetcode-150/tree/master/0883-car-fleet) |
 ## Divide and Conquer
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/Smritirai005/neetcode-150/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/Smritirai005/neetcode-150/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Smritirai005/neetcode-150/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Smritirai005/neetcode-150/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
