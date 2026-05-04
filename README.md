@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Smritirai005/neetcode-150/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Smritirai005/neetcode-150/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Smritirai005/neetcode-150/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Smritirai005/neetcode-150/tree/master/0560-subarray-sum-equals-k) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Smritirai005/neetcode-150/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Smritirai005/neetcode-150/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0494-target-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Smritirai005/neetcode-150/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/0918-maximum-sum-circular-subarray) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Smritirai005/neetcode-150/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Smritirai005/neetcode-150/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0494-target-sum) |
 ## Trie
 |  |
 | ------- |
