@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Smritirai005/neetcode-150/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Smritirai005/neetcode-150/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Smritirai005/neetcode-150/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/Smritirai005/neetcode-150/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Smritirai005/neetcode-150/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Smritirai005/neetcode-150/tree/master/0140-word-break-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Smritirai005/neetcode-150/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Smritirai005/neetcode-150/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Smritirai005/neetcode-150/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/Smritirai005/neetcode-150/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Smritirai005/neetcode-150/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Smritirai005/neetcode-150/tree/master/0131-palindrome-partitioning) |
