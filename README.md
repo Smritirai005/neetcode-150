@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Smritirai005/neetcode-150/tree/master/1092-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Smritirai005/neetcode-150/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Smritirai005/neetcode-150/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Smritirai005/neetcode-150/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Smritirai005/neetcode-150/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/0918-maximum-sum-circular-subarray) |
 | [1092-shortest-common-supersequence](https://github.com/Smritirai005/neetcode-150/tree/master/1092-shortest-common-supersequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Smritirai005/neetcode-150/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Smritirai005/neetcode-150/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
