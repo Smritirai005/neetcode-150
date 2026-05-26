@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Smritirai005/neetcode-150/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Smritirai005/neetcode-150/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Smritirai005/neetcode-150/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/Smritirai005/neetcode-150/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/Smritirai005/neetcode-150/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Smritirai005/neetcode-150/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/Smritirai005/neetcode-150/tree/master/0883-car-fleet) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Smritirai005/neetcode-150/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Smritirai005/neetcode-150/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Smritirai005/neetcode-150/tree/master/0287-find-the-duplicate-number) |
+| [0778-swim-in-rising-water](https://github.com/Smritirai005/neetcode-150/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/Smritirai005/neetcode-150/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Smritirai005/neetcode-150/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1631-path-with-minimum-effort](https://github.com/Smritirai005/neetcode-150/tree/master/1631-path-with-minimum-effort) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Smritirai005/neetcode-150/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Smritirai005/neetcode-150/tree/master/0347-top-k-frequent-elements) |
+| [0778-swim-in-rising-water](https://github.com/Smritirai005/neetcode-150/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Smritirai005/neetcode-150/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Smritirai005/neetcode-150/tree/master/1631-path-with-minimum-effort) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Smritirai005/neetcode-150/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Smritirai005/neetcode-150/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Smritirai005/neetcode-150/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Smritirai005/neetcode-150/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Smritirai005/neetcode-150/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Smritirai005/neetcode-150/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Smritirai005/neetcode-150/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Smritirai005/neetcode-150/tree/master/1631-path-with-minimum-effort) |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Smritirai005/neetcode-150/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Smritirai005/neetcode-150/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Smritirai005/neetcode-150/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Smritirai005/neetcode-150/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Smritirai005/neetcode-150/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Smritirai005/neetcode-150/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Smritirai005/neetcode-150/tree/master/0820-find-eventual-safe-states) |
@@ -484,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Smritirai005/neetcode-150/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Smritirai005/neetcode-150/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Smritirai005/neetcode-150/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Smritirai005/neetcode-150/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Smritirai005/neetcode-150/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Smritirai005/neetcode-150/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Smritirai005/neetcode-150/tree/master/0820-find-eventual-safe-states) |
@@ -616,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Smritirai005/neetcode-150/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Smritirai005/neetcode-150/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Smritirai005/neetcode-150/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Smritirai005/neetcode-150/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Smritirai005/neetcode-150/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Smritirai005/neetcode-150/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
