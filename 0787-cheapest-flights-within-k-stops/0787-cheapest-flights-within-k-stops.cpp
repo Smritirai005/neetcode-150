@@ -1,36 +1,43 @@
 class Solution {
-public:
-    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-        vector<vector<pair<int,int>>> adj(n);
-        for (auto &f : flights) {
-            adj[f[0]].push_back({f[1], f[2]});
-        }
+    public:
+        int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
+            vector<vector<pair<int,int>>>adj(n);
+            for(int i=0;i<flights.size();i++){
+                int sc=flights[i][0];
+                int des=flights[i][1];
+                int wt=flights[i][2];
+                adj[sc].push_back({des,wt});
+            };
+            priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>>pq;
+            pq.push({0,{src,0}});
+            vector<int> stops(n, INT_MAX);
+            while(!pq.empty() ){
+                pair<int,pair<int,int>>p=pq.top();
+                pq.pop();
+                int cost=p.first;
+                int node=p.second.first;
+                int stop=p.second.second;
+                if (stop > k + 1)
+                continue;
 
-        vector<int> minCost(n, INT_MAX);
-        minCost[src] = 0;
-
-        queue<pair<int,int>> q; // {node, cost}
-        q.push({src, 0});
-
-        int stops = 0;
-
-        while (!q.empty() && stops <= k) {
-            int sz = q.size();
-            while (sz--) {
-                auto [u, cost] = q.front();
-                q.pop();
-
-                for (auto &[v, price] : adj[u]) {
-                    if (cost + price < minCost[v]) {
-                        minCost[v] = cost + price;
-                        q.push({v, minCost[v]});
-                    }
+                if (stop > stops[node])continue;
+                stops[node]=stop;
+                if(node==dst){
+                    return cost;
                 }
+                for(int i=0;i<adj[node].size();i++){
+                    int nbr=adj[node][i].first;
+                    int nxtcost=adj[node][i].second;
+                    pq.push({cost+nxtcost,{nbr,stop+1}});
+                }
+
             }
-            stops++;
+            return -1;
+
+
         }
-
-        return minCost[dst] == INT_MAX ? -1 : minCost[dst];
-    }
+        
+                
+                        
+                            
 };
-
