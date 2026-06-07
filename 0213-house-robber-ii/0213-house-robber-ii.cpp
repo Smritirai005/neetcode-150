@@ -1,23 +1,29 @@
 class Solution {
 public:
-    int robLinear(vector<int>& nums, int start, int end) {
-        int prev2 = 0, prev1 = 0;
 
-        for(int i = start; i <= end; i++) {
-            int curr = max(prev1, prev2 + nums[i]);
-            prev2 = prev1;
-            prev1 = curr;
-        }
-        return prev1;
+    int solve(vector<int>& nums, int i, int n, vector<int>& dp) {
+
+        if(i > n) return 0;
+
+        if(dp[i] != -1) return dp[i];
+
+        int take = nums[i] + solve(nums, i + 2, n, dp);
+        int notTake = solve(nums, i + 1, n, dp);
+
+        return dp[i] = max(take, notTake);
     }
 
     int rob(vector<int>& nums) {
+
         int n = nums.size();
 
         if(n == 1) return nums[0];
 
-        int case1 = robLinear(nums, 0, n-2); // exclude last
-        int case2 = robLinear(nums, 1, n-1); // exclude first
+        vector<int> dp1(n, -1);
+        vector<int> dp2(n, -1);
+
+        int case1 = solve(nums, 0, n - 2, dp1);
+        int case2 = solve(nums, 1, n - 1, dp2);
 
         return max(case1, case2);
     }
