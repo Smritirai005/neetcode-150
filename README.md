@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Smritirai005/neetcode-150/tree/master/1470-shuffle-the-array) |
 | [1631-path-with-minimum-effort](https://github.com/Smritirai005/neetcode-150/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Smritirai005/neetcode-150/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Smritirai005/neetcode-150/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Smritirai005/neetcode-150/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Smritirai005/neetcode-150/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Smritirai005/neetcode-150/tree/master/1189-maximum-number-of-balloons) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Smritirai005/neetcode-150/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Smritirai005/neetcode-150/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Union Find
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Smritirai005/neetcode-150/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Smritirai005/neetcode-150/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Smritirai005/neetcode-150/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Smritirai005/neetcode-150/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Design
 |  |
 | ------- |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Smritirai005/neetcode-150/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Smritirai005/neetcode-150/tree/master/0287-find-the-duplicate-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Smritirai005/neetcode-150/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Smritirai005/neetcode-150/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Merge Sort
 |  |
 | ------- |
