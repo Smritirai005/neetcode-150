@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Smritirai005/neetcode-150/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Smritirai005/neetcode-150/tree/master/0268-missing-number) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Smritirai005/neetcode-150/tree/master/2929-distribute-candies-among-children-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Smritirai005/neetcode-150/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
@@ -637,4 +638,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Smritirai005/neetcode-150/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Smritirai005/neetcode-150/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Smritirai005/neetcode-150/tree/master/1631-path-with-minimum-effort) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Smritirai005/neetcode-150/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
