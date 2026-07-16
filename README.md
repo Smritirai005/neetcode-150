@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Smritirai005/neetcode-150/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Smritirai005/neetcode-150/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Smritirai005/neetcode-150/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Smritirai005/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Smritirai005/neetcode-150/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Smritirai005/neetcode-150/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/Smritirai005/neetcode-150/tree/master/0986-interval-list-intersections) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Smritirai005/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Smritirai005/neetcode-150/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Smritirai005/neetcode-150/tree/master/0455-assign-cookies) |
 | [0883-car-fleet](https://github.com/Smritirai005/neetcode-150/tree/master/0883-car-fleet) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Smritirai005/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Smritirai005/neetcode-150/tree/master/0268-missing-number) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Smritirai005/neetcode-150/tree/master/2929-distribute-candies-among-children-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Smritirai005/neetcode-150/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Smritirai005/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -628,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Smritirai005/neetcode-150/tree/master/0735-asteroid-collision) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Smritirai005/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -642,4 +647,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Smritirai005/neetcode-150/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Smritirai005/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
